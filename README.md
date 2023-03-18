@@ -5,7 +5,7 @@
 Mohammad Aghamir - *Maintainer of this repository* - [coinaddrvalidator](https://github.com/nobitex/coinaddrvalidator)
 
 ## Fork Maintainer
-Devmons s.r.o. - *Maintainer of this fork* - [coinaddrng](https://github.com/crypkit/coinaddrng)
+toys0ldier - *Maintainer of this fork* - [toys0ldier](https://github.com/toys0ldier)
 
 See also the list of [contributors](https://github.com/crypkit/coinaddrng/contributors) who participated in this project.
 
@@ -15,6 +15,8 @@ Joe Black | <me@joeblack.nyc> | [github](https://github.com/joeblackwaslike)
 
 ## Introduction
 A cryptocurrency address inspection/validation library for python.
+
+This fork of coinaddrvalidator, which is itself a fork of coinaddrng, provides updated support for Python 3.7+. It has been tested on Python 3.8, 3.9, and 3.11.
 
 ### Supported currencies
 * binancecoin
