@@ -48,10 +48,6 @@ This fork of coinaddrvalidator, which is itself a fork of coinaddrng, provides u
 * vechain
 * zcash
 
-## Installation
-```shell
-pip3 install coinaddrvalidator
-```
 
 ## Usage
 ```python
